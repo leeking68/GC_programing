@@ -85,7 +85,7 @@
 
 <br>
 
-##Young generation
+**Young generation**
 
 <br>
 
@@ -144,7 +144,7 @@ Eden의 가장 높은(top)부분에는 마지막 객체가 존재한다. bump-th
 
 <br>
 
-##Old 영역의 GC
+**Old 영역의 GC**
 
 <br>
 
